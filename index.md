@@ -4,4 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-Welcome to the site
+Contact us: hello@1plusplus.com
