@@ -4,4 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-Contact us: hello@1plusplus.com
+<center>Work in progress</center>
